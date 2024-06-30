@@ -1,4 +1,4 @@
-# Python projekt Fußballmannschaften v0.1
+# Python project Fußballmannschaften v0.1
  
 ## Local setup 
 
