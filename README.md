@@ -1,6 +1,6 @@
-#Python projekt Fußballmannschaften v0.1
+# Python projekt Fußballmannschaften v0.1
  
-##Local setup 
+## Local setup 
 
 **Create python environment**
 
@@ -38,7 +38,7 @@ $ flask db migrate
 $ flask run
 ```
 
-##Setup with docker
+## Setup with docker
 
 ```
 $ docker-compose up -d --build
