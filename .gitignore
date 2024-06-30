@@ -1,4 +1,4 @@
-#Ignore environment
+#Environment
 
 .env
 .venv
@@ -6,3 +6,5 @@ venv/
 env/
 ENV/
 
+# IDE
+.idea
